@@ -4,6 +4,10 @@
 
 <p align="center"><b>Super Addictive Game with Waifus.</b></p>
 
+## About
+
+Halo
+
 ## Link Mappings
 
 <b>&gt;</b> <a href="https://github.com/00010023/waifu.run/projects/1"><img height="20" width="40" src="./assets/logo.png"> <b>Progress Board</b></a>
