@@ -4,7 +4,12 @@
 
 <p align="center"><b>Super Addictive Game with Waifus.</b></p>
 
-## Guides
+## Link Mappings
+
+* [**Progress Board**](https://github.com/00010023/waifu.run/projects/1)
+* [**Bug Triage**](https://github.com/00010023/waifu.run/projects/2)
+* [**Discussion**](https://github.com/00010023/waifu.run/discussions)
+* [**Submit an issue**](https://github.com/00010023/waifu.run/issues/new/choose)
 
 <p align="center"><img align="center" height="150" width="330" src="./assets/logo.png"></p>
 
