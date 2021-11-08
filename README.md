@@ -1,3 +1,1 @@
-<p align="center">
-    <img align="center" href="./assets/logo_temporary.jpg">
-</p>
+<p align="center"><img height="300" width="300" src="./assets/logo.jpg"/></p>
