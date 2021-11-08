@@ -6,12 +6,12 @@
 
 ## Link Mappings
 
-* [**Progress Board**](https://github.com/00010023/waifu.run/projects/1)
+* <img height="10" width="40" src="./assets/logo.png">[**Progress Board**](https://github.com/00010023/waifu.run/projects/1)
 * [**Bug Triage**](https://github.com/00010023/waifu.run/projects/2)
 * [**Discussion**](https://github.com/00010023/waifu.run/discussions)
 * [**Submit an issue**](https://github.com/00010023/waifu.run/issues/new/choose)
 
-<p align="center"><img align="center" height="150" width="330" src="./assets/logo.png"></p>
+<p align="center"><img height="150" width="330" src="./assets/logo.png"></p>
 
 
 <p align="center"><b>Copyright &copy; 2021 <a href="https://uwussi.moe" target="_blank">UwU | 00010023</a></b></p>
