@@ -22,4 +22,4 @@ Taking the most super addictive, fun and interesting game and making it way more
 
 <p align="center"><b>Copyright &copy; 2021 <a href="https://uwussi.moe" target="_blank">UwU | 00010023</a></b></p>
 
-<p align="center"><a href="https://github.com/00010023/waifu.run/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=CC0-1.0&logoColor=eceff4&logo=github&colorA=3698FF&colorB=ffffff"/></a></p>
+<p align="center"><a href="https://github.com/00010023/waifu.run/blob/main/license"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=CC0-1.0&logoColor=eceff4&logo=github&colorA=3698FF&colorB=ffffff"/></a></p>
