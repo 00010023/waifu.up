@@ -1,4 +1,4 @@
-<p align="center"><img height="300" width="300" src="./assets/logo.jpg"/></p>
+<p align="center"><img height="300" width="300" src="./assets/logo.png"/></p>
 
 <h2 align="center"><b>Waifu Run</b></h2>
 
@@ -10,13 +10,13 @@ Taking the most super addictive, fun and interesting game and making it way more
 
 <h1>Link Mappings</h1>
 
-<a href="https://github.com/00010023/waifu.run/projects/1"><img height="20" width="40" src="./assets/logo.png"> <b>Progress Board</b></a>
+<a href="https://github.com/00010023/waifu.run/projects/1"><img height="20" width="40" src="./assets/ul.png"> <b>Progress Board</b></a>
 
-<a href="https://github.com/00010023/waifu.run/projects/2"><img height="20" width="40" src="./assets/logo.png"> <b>Bug Triage</b></a>
+<a href="https://github.com/00010023/waifu.run/projects/2"><img height="20" width="40" src="./assets/ul.png"> <b>Bug Triage</b></a>
 
-<a href="https://github.com/00010023/waifu.run/discussions"><img height="20" width="40" src="./assets/logo.png"> <b>Discussion</b></a>
+<a href="https://github.com/00010023/waifu.run/discussions"><img height="20" width="40" src="./assets/ul.png"> <b>Discussion</b></a>
 
-<a href="https://github.com/00010023/waifu.run/issues/new/choose"><img height="20" width="40" src="./assets/logo.png"> <b>Submit an issue</b></a>
+<a href="https://github.com/00010023/waifu.run/issues/new/choose"><img height="20" width="40" src="./assets/ul.png"> <b>Submit an issue</b></a>
 
 > The source code of game isn't available for public yet due to its in beta phase. But you can still submit an issue to report a bug [here](https://github.com/mad-maids/maid.ts/issues/new) and give me some suggestions.
 
