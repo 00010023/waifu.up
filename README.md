@@ -1,2 +1,3 @@
-# waifu.run
-Game Development Course to create game using Unity on C#
+<p align="center">
+    <img align="center" href="./assets/logo_temporary.jpg">
+</p>
