@@ -2,4 +2,4 @@
 
 <h2 align="center"><b>Waifu Run</b></h2>
 
-<p align="center"> Super Addictive Game with Waifus.</p>
+<p align="center"><b>Super Addictive Game with Waifus.</b></p>
