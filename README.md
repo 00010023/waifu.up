@@ -18,6 +18,8 @@ Taking the most super addictive, fun and interesting game and making it way more
 
 <b>&gt;</b> <a href="https://github.com/00010023/waifu.run/issues/new/choose"><img height="20" width="40" src="./assets/logo.png"> <b>Submit an issue</b></a>
 
+> The source code of game isn't available for public yet due to its in beta phase. But you can still submit an issue to report a bug [here](https://github.com/mad-maids/maid.ts/issues/new) and give me some suggestions.
+
 <p align="center"><b>Copyright &copy; 2021 <a href="https://uwussi.moe" target="_blank">UwU | 00010023</a></b></p>
 
 <p align="center"><a href="https://github.com/00010023/waifu.run/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=CC0-1.0&logoColor=eceff4&logo=github&colorA=3698FF&colorB=ffffff"/></a></p>
